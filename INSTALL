@@ -1,0 +1,6 @@
+You need following libraries: aalib (libaa1-dev on ubuntu/debian)
+In most cases you should use:
+
+ % aclocal && automake --add-missing && autoconf
+
+ % ./configure && make && sudo make install
