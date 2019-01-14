@@ -7,3 +7,5 @@ Usage:
 ```
  % bbee -torus|-plasma|-fractal [aaoptions]
 ```
+
+![screenshot](screenshot.png)
